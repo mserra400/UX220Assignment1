@@ -1,1 +1,2 @@
-hello from article 2
+# Financial
+- Continue to have a class a term at Laurier
